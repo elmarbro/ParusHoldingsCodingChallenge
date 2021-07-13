@@ -1,0 +1,29 @@
+{
+    "Target Price": "$15.05",
+    "Items": [
+        {
+            "Name": "mixed fruit",
+            "Price": "$2.15"
+        },
+        {
+            "Name": "french fries",
+            "Price": "$2.75"
+        },
+        {
+            "Name": "side salad",
+            "Price": "$3.35"
+        },
+        {
+            "Name": "hot wings",
+            "Price": "$3.55"
+        },
+        {
+            "Name": "mozzarella sticks",
+            "Price": "$4.20"
+        },
+        {
+            "Name": "sampler plate",
+            "Price": "$5.80"
+        }
+    ]
+}
